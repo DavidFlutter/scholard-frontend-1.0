@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/scholard-frontend-1.0/static/css/main.36922889.css",
-    "main.js": "/scholard-frontend-1.0/static/js/main.ff4e92b6.js",
+    "main.js": "/scholard-frontend-1.0/static/js/main.99b935a8.js",
     "static/js/787.d7f57069.chunk.js": "/scholard-frontend-1.0/static/js/787.d7f57069.chunk.js",
     "index.html": "/scholard-frontend-1.0/index.html",
     "main.36922889.css.map": "/scholard-frontend-1.0/static/css/main.36922889.css.map",
-    "main.ff4e92b6.js.map": "/scholard-frontend-1.0/static/js/main.ff4e92b6.js.map",
+    "main.99b935a8.js.map": "/scholard-frontend-1.0/static/js/main.99b935a8.js.map",
     "787.d7f57069.chunk.js.map": "/scholard-frontend-1.0/static/js/787.d7f57069.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36922889.css",
-    "static/js/main.ff4e92b6.js"
+    "static/js/main.99b935a8.js"
   ]
 }
