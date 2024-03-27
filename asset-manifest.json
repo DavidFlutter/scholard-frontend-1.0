@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/scholard-frontend-1.0/static/css/main.dbdfe1dd.css",
-    "main.js": "/scholard-frontend-1.0/static/js/main.32d59c93.js",
+    "main.css": "/scholard-frontend-1.0/static/css/main.3f1c72f6.css",
+    "main.js": "/scholard-frontend-1.0/static/js/main.e15b9838.js",
     "static/js/787.d7f57069.chunk.js": "/scholard-frontend-1.0/static/js/787.d7f57069.chunk.js",
     "index.html": "/scholard-frontend-1.0/index.html",
-    "main.dbdfe1dd.css.map": "/scholard-frontend-1.0/static/css/main.dbdfe1dd.css.map",
-    "main.32d59c93.js.map": "/scholard-frontend-1.0/static/js/main.32d59c93.js.map",
+    "main.3f1c72f6.css.map": "/scholard-frontend-1.0/static/css/main.3f1c72f6.css.map",
+    "main.e15b9838.js.map": "/scholard-frontend-1.0/static/js/main.e15b9838.js.map",
     "787.d7f57069.chunk.js.map": "/scholard-frontend-1.0/static/js/787.d7f57069.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbdfe1dd.css",
-    "static/js/main.32d59c93.js"
+    "static/css/main.3f1c72f6.css",
+    "static/js/main.e15b9838.js"
   ]
 }
