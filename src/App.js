@@ -49,7 +49,7 @@ function App() {
               element={<SavedChatsPage></SavedChatsPage>}
             ></Route>
            
-            <Route path={"/tips-and-faetures"}
+            {/* <Route path={"/tips-and-faetures"}
               element={<TipsAndFeaturesPage></TipsAndFeaturesPage>}
             ></Route>
            
@@ -59,7 +59,7 @@ function App() {
 
             <Route path="/settings"
               element={<SettingsPage></SettingsPage>}
-            ></Route>
+            ></Route> */}
 
             <Route path={"*"}
               element={<NotFoundPage></NotFoundPage>}

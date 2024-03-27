@@ -75,9 +75,13 @@ const Sidebar = () => {
                 <span>Customization</span>
             </NavLink>
         </nav>
-        <button className="logout-btn">
-            <BiLogOut></BiLogOut>
-            <span>Logout</span>
+        <button className="logout-btn">                        
+            <NavLink
+                to={"/l"}
+            >
+                <BiLogOut></BiLogOut>
+                <span>Logout</span>
+            </NavLink>
         </button>
     </div>
   )

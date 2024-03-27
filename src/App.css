@@ -156,11 +156,19 @@ body::-webkit-scrollbar {
   padding-left: 3rem;
   font-size: 1.5rem;
   font-weight: 600;
+}
+.Sidebar button.logout-btn a {
+  text-decoration: none;
+  color: rgb(20, 20, 54);
   display: flex;
   align-items: center;
   gap: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
 }
-.Sidebar button.logout-btn svg {
+.Sidebar button.logout-btn a svg {
   color: rgb(20, 20, 54);
   font-size: 2rem;
 }
