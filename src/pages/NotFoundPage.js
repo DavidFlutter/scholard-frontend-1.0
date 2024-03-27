@@ -7,13 +7,13 @@ const NotFoundPage = () => {
     <div className='NotFoundPage'>
       <Sidebar></Sidebar>
         <div className="tile">
-            <h2>
-                Sorry this page has not been created yet
-            </h2>
-            <Link to={"/scholard-frontend-1.0"}>
-                Home
-            </Link>
-            </div>
+          <h2>
+              Sorry this page has not been created yet
+          </h2>
+          <Link to={"/scholard-frontend-1.0"}>
+              Home
+          </Link>
+        </div>
     </div>
   )
 }
